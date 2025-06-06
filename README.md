@@ -1,8 +1,13 @@
-# React + Vite
+# 🔮 Mystic Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and interactive web app built with React and Vite that offers mystical and tarot card readings with captivating animations. Mystic-Cards provides a serene and visually enchanting experience, combining insightful card reveals with smooth, magical transitions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+- 🔮 **Mystical readings** : Explore tarot and mystical card interpretations.  
+- ✨ **Smooth animations** : Cards reveal with elegant and engaging effects. 
+- 📱 **Responsive layout** : Perfectly adapts to any device or screen size.  
+- ⚛️ **Built with React and Vite** : Fast, modern, and easy to develop.
+- 🌙 **Calming design** : Serene, visually appealing interface for focused reflection.
+- 🧩 **Easily customizable** : Add your own cards, meanings, or styles effortlessly.  
